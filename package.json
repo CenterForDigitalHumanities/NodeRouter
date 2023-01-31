@@ -1,0 +1,14 @@
+{
+  "name": "noderouter",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./router.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
